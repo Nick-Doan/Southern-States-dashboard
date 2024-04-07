@@ -2,5 +2,4 @@ Dashboard analyzing products from 7 states. Alabama, Florida, Georgia, Mississip
 
 
 
-
-![1711418954799](https://github.com/Nick-Doan/Southern-States-dashboard/assets/160164886/38417d93-3901-4a79-8758-393a696d2230)
+![1711419011261](https://github.com/Nick-Doan/Southern-States-dashboard/assets/160164886/84e5982e-2275-4ed9-9ca7-2c65e4cfb742)
